@@ -1,0 +1,13 @@
+FlexCOS is free and Open Source Smartcard Operating System. Since real
+Smartcard Hardware without an operating system is hard to come by, FlexCOS
+is developed on FPGA Boards with initial support for Xilinx Spartan 6 Chips.
+Due to limitations of the ability to distribute FPGA Configuration binaries
+a compatible configuration for a given device has to be created first.
+Ports to other architectures and platforms can be achieved by changing only
+a few files in the FreeRTOS part of FlexCOS.
+
+For general information and detailed instructions on how to get started with
+FlexCOS please visit
+
+http://servbar.net:18080/dokuwiki
+

@@ -1,0 +1,9 @@
+This software package 'FlexCOS' is Covered under GNU General Public
+License (version 3). More about the GPL can be found at
+http://www.gnu.org/ (or) in a file named LICENSE.
+
+Kindly reflect back the enhancements made to this package to the authors.
+
+The licenses of the projects FlexCOS is built on can be found in the files
+named LICENSE_$(projectname).
+
