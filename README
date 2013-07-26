@@ -7,7 +7,7 @@ Ports to other architectures and platforms can be achieved by changing only
 a few files in the FreeRTOS part of FlexCOS.
 
 For general information and detailed instructions on how to get started with
-FlexCOS please visit
+FlexCOS please visit the Wiki pages.
 
-http://servbar.net:18080/dokuwiki
+https://github.com/FlexCOS/code/wiki
 
